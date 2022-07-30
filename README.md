@@ -1,4 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="120"/>
+  <h3> Hi there 👋 </h3>
+  
+  <div id="badges">
+  <a href="https://t.me/alenakechko">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  
+</div>
+  
+</div>
+
 
 <!--
 **LenaKechko/LenaKechko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
